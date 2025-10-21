@@ -8,6 +8,8 @@ This is a deliberately vulnerable web application built with Go and SQLite for C
 
 ## ⚠️ Security Warning
 
+hello
+
 **This application contains intentional security vulnerabilities for training purposes.**
 
 - **DO NOT** deploy to production environments
