@@ -194,7 +194,7 @@ curl -X POST http://localhost:8080/search \
 
 ## Remediation Resources
 
-Each vulnerability includes comprehensive remediation guidance:
+Each vulnerability includes comprehensive remediation guidance
 
 - **[SAST Fixes](./remediation/sast-remediation.md)** - Secure coding practices
 - **[SCA Fixes](./remediation/sca-remediation.md)** - Dependency management  
